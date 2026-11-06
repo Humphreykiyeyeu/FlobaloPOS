@@ -1,37 +1,17 @@
 # Frobalo POS
 
-**Programu ya mauzo na stoo kwa maduka. Inafanya kazi bila intaneti.**
-Point of sale and stock control for shops. Works without Internet.
+**Point of sale and stock control for shops. Works without Internet.**
 
-## Pakua / Download
+## Download
 
-[![Pakua kwa Windows](https://img.shields.io/badge/Pakua_kwa_Windows-Download-0f6e64?style=for-the-badge)](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/FrobaloPOS-Setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0f6e64?style=for-the-badge)](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/FrobaloPOS-Setup.exe)
 &nbsp;
-[![Pakua kwa Linux](https://img.shields.io/badge/Pakua_kwa_Linux-Download-1f3a5f?style=for-the-badge)](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/frobalo-pos-linux-x64.run)
+[![Download for Linux](https://img.shields.io/badge/Download_for_Linux-1f3a5f?style=for-the-badge)](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/frobalo-pos-linux-x64.run)
 
-Bonyeza kitufe na upakuaji utaanza. Hakuna akaunti ya GitHub inayohitajika.
-Press a button and the download starts. No GitHub account needed.
+Press a button and the download starts. You don't need a GitHub account.
 
 - **Windows 10 / 11:** [FrobaloPOS-Setup.exe](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/FrobaloPOS-Setup.exe) (about 40 MB)
 - **Linux:** [frobalo-pos-linux-x64.run](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/frobalo-pos-linux-x64.run) (about 50 MB)
-
-## Jinsi ya kusakinisha
-
-Sakinisha kwenye **kompyuta kuu ya duka**. Simu na kompyuta nyingine zinaunganishwa baadaye kupitia Wi-Fi ya duka, bila kusakinisha chochote.
-
-**Windows**
-1. Fungua faili ulilopakua.
-2. Ikiwa Windows itaonyesha **"Windows protected your PC"**, bonyeza **More info**, kisha **Run anyway**. Ujumbe huu unatarajiwa kwa sasa.
-3. Bonyeza **Yes**, kisha fuata maelekezo.
-4. Frobalo POS itafunguka kwenye kivinjari. Jaza taarifa za duka lako.
-
-**Linux**
-
-Fungua terminal kwenye folda ya faili, kisha:
-```
-sh frobalo-pos-linux-x64.run
-```
-Kwa kompyuta inayotumika kama seva ya duka, tumia `sudo sh frobalo-pos-linux-x64.run`.
 
 ## How to install
 
@@ -51,6 +31,6 @@ sh frobalo-pos-linux-x64.run
 ```
 For a computer used as the shop server, use `sudo sh frobalo-pos-linux-x64.run`.
 
----
+## Updates
 
-Maduka yaliyosakinisha Frobalo POS hupata matoleo mapya kupitia ukurasa wa **Updates**. Installed shops get new versions from the **Updates** page. Every update is signed, and shops refuse anything else.
+Installed shops get new versions from the **Updates** page in Frobalo POS. Every update is signed, and shops refuse anything else.
