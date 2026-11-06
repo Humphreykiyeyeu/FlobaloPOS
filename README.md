@@ -8,7 +8,7 @@
 &nbsp;
 [![Download for Linux](https://img.shields.io/badge/Download_for_Linux-1f3a5f?style=for-the-badge)](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/frobalo-pos-linux-x64.run)
 
-Press a button and the download starts. You don't need a GitHub account.
+
 
 - **Windows 10 / 11:** [FrobaloPOS-Setup.exe](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/FrobaloPOS-Setup.exe) (about 40 MB)
 - **Linux:** [frobalo-pos-linux-x64.run](https://github.com/Humphreykiyeyeu/FlobaloPOS/releases/latest/download/frobalo-pos-linux-x64.run) (about 50 MB)
