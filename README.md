@@ -1,6 +1,6 @@
 # Frobalo POS
 
-**Point of sale and stock control for shops. Works without Internet.**
+**Point of sale and stock control for shops.**
 
 ## Download
 
