@@ -15,7 +15,6 @@
 
 ## How to install
 
-Install on the shop's **main computer**. Phones and other computers connect later over the shop Wi-Fi, with nothing to install.
 
 **Windows**
 1. Open the file you downloaded.
@@ -33,4 +32,4 @@ For a computer used as the shop server, use `sudo sh frobalo-pos-linux-x64.run`.
 
 ## Updates
 
-Installed shops get new versions from the **Updates** page in Frobalo POS. Every update is signed, and shops refuse anything else.
+Installed shops get new versions from the **Updates** page in Frobalo POS. 
