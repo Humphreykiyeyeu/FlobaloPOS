@@ -41,7 +41,7 @@ Open **Terminal** (Applications → Utilities), then run:
 sh ~/Downloads/frobalo-pos-macos.run
 ```
 Frobalo POS opens in your browser, starts by itself when you sign in to the Mac, and appears in Applications.
-On a Mac with an Apple chip, the installer tells you if Apple's Rosetta needs adding first.
+The same file works on Intel Macs and Macs with an Apple chip.
 
 ## Updates
 
